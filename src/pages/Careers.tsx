@@ -63,7 +63,7 @@ const Careers: React.FC = () => {
           autoPlay
           loop
           muted
-          preload="none"
+          preload="auto"
           className="absolute top-0 left-0 w-full h-full object-cover brightness-75"
         >
           <source src="/brvn-main-vod.mp4" />
