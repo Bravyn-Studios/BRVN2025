@@ -10,7 +10,6 @@ import Loader from '../components/Loader';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import videoUrl from '../brvn-main-vod.mp4';
 
 const Home: React.FC = () => {
   const [loading, setLoading] = useState(true);
@@ -50,7 +49,7 @@ const Home: React.FC = () => {
           className="absolute top-0 left-0 w-full h-full object-cover brightness-75"
         >
           <source
-            src={videoUrl}
+            src="/brvn-main-vod.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
