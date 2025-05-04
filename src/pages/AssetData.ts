@@ -2,7 +2,7 @@ export const ASSETS_DATA = [
   {
       id: 1,
       title: "Fantasy Castle Pack",
-      price: 49.99,
+      price: 29.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/960f6a33-c41b-4b7f-b8af-6c3f36a1cd88.webp",
       rating: 4.8,
       sales: 320,
@@ -31,7 +31,7 @@ export const ASSETS_DATA = [
     {
       id: 2,
       title: "Cyberpunk Streets",
-      price: 59.99,
+      price: 21.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/6f5a01aa-143a-410a-9418-4a6854a96585.webp",
       rating: 4.7,
       sales: 412,
@@ -115,7 +115,7 @@ export const ASSETS_DATA = [
     {
       id: 5,
       title: "Enchanted Forest Environment",
-      price: 64.99,
+      price: 28.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/939a2bf2-0071-403f-99b5-67a71136a297.webp",
       rating: 4.6,
       sales: 340,
@@ -144,7 +144,7 @@ export const ASSETS_DATA = [
     {
       id: 6,
       title: "Space Station Interior",
-      price: 54.99,
+      price: 35.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/d9f58276-01d6-494b-be46-883a355d2a93.webp",
       rating: 4.7,
       sales: 389,
@@ -173,7 +173,7 @@ export const ASSETS_DATA = [
     {
       id: 7,
       title: "Dark Dungeon Kit",
-      price: 39.99,
+      price: 22.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/3d01c120-9b0f-450f-82a1-a3abe702bbe3.webp",
       rating: 4.4,
       sales: 298,
@@ -203,7 +203,7 @@ export const ASSETS_DATA = [
     {
       id: 8,
       title: "Medieval Village Set",
-      price: 44.99,
+      price: 20.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/739b6051-3d90-4dd3-9984-b75f05cf155a.webp",
       rating: 4.6,
       sales: 312,
@@ -232,7 +232,7 @@ export const ASSETS_DATA = [
     {
       id: 9,
       title: "Dynamic Skybox Collection",
-      price: 29.99,
+      price: 17.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/699144a5-4045-4356-b9b2-403df84ad614.webp",
       rating: 4.3,
       sales: 240,
@@ -261,7 +261,7 @@ export const ASSETS_DATA = [
     {
       id: 10,
       title: "Robot Assembly Line",
-      price: 34.99,
+      price: 25.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/e3883fbb-7093-4363-bb8c-d1e4af91c499.webp",
       rating: 4.2,
       sales: 200,
@@ -290,7 +290,7 @@ export const ASSETS_DATA = [
     {
       id: 11,
       title: "Underwater Reef Pack",
-      price: 49.99,
+      price: 33.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/9c179aa2-9d44-4532-9e9c-bc4a1748d978.webp",
       rating: 4.5,
       sales: 180,
@@ -319,7 +319,7 @@ export const ASSETS_DATA = [
     {
       id: 12,
       title: "Cityscape Building Kit",
-      price: 39.99,
+      price: 38.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/b0e4202f-95e3-4f51-b5ef-adfd9566b101.webp",
       rating: 4.7,
       sales: 415,
@@ -464,7 +464,7 @@ export const ASSETS_DATA = [
     {
       id: 17,
       title: "Realistic Street Props",
-      price: 24.99,
+      price: 20.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/9aaffb14-aac7-429b-b4be-ccb4d628bee3.webp",
       rating: 4.4,
       sales: 198,
@@ -493,7 +493,7 @@ export const ASSETS_DATA = [
     {
       id: 18,
       title: "Ancient Temple Pack",
-      price: 54.99,
+      price: 35.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/1ac5eda6-fa2a-4869-a241-8c21669be20f.webp",
       rating: 4.7,
       sales: 362,
@@ -522,7 +522,7 @@ export const ASSETS_DATA = [
     {
       id: 19,
       title: "Desert Oasis Pack",
-      price: 49.99,
+      price: 30.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/eee01b79-b24e-4758-8969-bb79368262cd.webp",
       rating: 4.8,
       sales: 500,
@@ -551,7 +551,7 @@ export const ASSETS_DATA = [
     {
       id: 20,
       title: "Apocalyptic City Pack",
-      price: 69.99,
+      price: 31.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/ae669fd6-b427-43cb-8ba8-3bc7b9187bcf.webp",
       rating: 4.5,
       sales: 400,
@@ -580,7 +580,7 @@ export const ASSETS_DATA = [
     {
       id: 21,
       title: "Fantasy Forest Assets",
-      price: 44.99,
+      price: 25.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/98469c1f-f208-44e9-bdf9-b284f20a1813.webp",
       rating: 4.6,
       sales: 380,
@@ -609,7 +609,7 @@ export const ASSETS_DATA = [
     {
       id: 22,
       title: "Steampunk City Pack",
-      price: 59.99,
+      price: 29.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/8c428179-894f-465c-b864-310da579033d.webp",
       rating: 4.9,
       sales: 520,
@@ -638,7 +638,7 @@ export const ASSETS_DATA = [
     {
       id: 23,
       title: "Nightmare Creatures Pack",
-      price: 39.99,
+      price: 17.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/e0a2f55a-d131-410f-8a19-cc18a6cbcbc1.webp",
       rating: 4.7,
       sales: 300,
@@ -667,7 +667,7 @@ export const ASSETS_DATA = [
     {
       id: 24,
       title: "Urban Nightlife Pack",
-      price: 24.99,
+      price: 12.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/83ca0cd9-80f5-448e-87cb-1422854b6b2f.webp",
       rating: 4.4,
       sales: 180,
@@ -696,7 +696,7 @@ export const ASSETS_DATA = [
     {
       id: 25,
       title: "Desert Ruins Pack",
-      price: 39.99,
+      price: 22.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/da5e6398-6367-4698-adce-96504b2ab775.webp",
       rating: 4.6,
       sales: 265,
@@ -725,7 +725,7 @@ export const ASSETS_DATA = [
     {
       id: 26,
       title: "Post-Apocalyptic Weapons Pack",
-      price: 49.99,
+      price: 28.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/58890e8c-85f5-431d-b404-925b2e76d117.webp",
       rating: 4.5,
       sales: 420,
@@ -754,7 +754,7 @@ export const ASSETS_DATA = [
     {
       id: 27,
       title: "Pixel Spacecraft Tileset",
-      price: 74.99,
+      price: 37.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/f9fee1ce-39ff-4816-a7ba-7af6550880b7.webp",
       rating: 4.8,
       sales: 480,
@@ -783,7 +783,7 @@ export const ASSETS_DATA = [
     {
       id: 28,
       title: "Frozen Tundra Terrain Pack",
-      price: 39.99,
+      price: 26.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/718cd9c2-b300-4f59-994a-3da137a16e3c.webp",
       rating: 4.7,
       sales: 350,
@@ -812,7 +812,7 @@ export const ASSETS_DATA = [
     {
       id: 29,
       title: "Wild West Pack",
-      price: 24.99,
+      price: 12.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/18cb0180-037a-498f-8180-b4acd988cd8e.webp",
       rating: 4.4,
       sales: 310,
@@ -841,7 +841,7 @@ export const ASSETS_DATA = [
     {
       id: 30,
       title: "Alien Planet Terrain Pack",
-      price: 59.99,
+      price: 17.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/89120c21-2dce-46d0-9cf7-ab9b0c7ec14c.webp",
       rating: 4.7,
       sales: 495,
