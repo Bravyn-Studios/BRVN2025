@@ -58,7 +58,7 @@ export const ASSETS_DATA = [
     {
       id: 3,
       title: "Low Poly Nature Pack",
-      price: 24.99,
+      price: 23.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/b5b3a22d-bc03-4805-8f94-6c96c3885d43.webp",
       rating: 4.5,
       sales: 280,
@@ -87,7 +87,7 @@ export const ASSETS_DATA = [
     {
       id: 4,
       title: "Sci-Fi UI HUD Elements",
-      price: 19.99,
+      price: 14.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/37f21d96-d785-40cd-bb68-6398c3086f0b.webp",
       rating: 4.9,
       sales: 605,
@@ -115,7 +115,7 @@ export const ASSETS_DATA = [
     {
       id: 5,
       title: "Enchanted Forest Environment",
-      price: 28.99,
+      price: 32.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/939a2bf2-0071-403f-99b5-67a71136a297.webp",
       rating: 4.6,
       sales: 340,
@@ -144,7 +144,7 @@ export const ASSETS_DATA = [
     {
       id: 6,
       title: "Space Station Interior",
-      price: 35.99,
+      price: 30.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/d9f58276-01d6-494b-be46-883a355d2a93.webp",
       rating: 4.7,
       sales: 389,
@@ -173,7 +173,7 @@ export const ASSETS_DATA = [
     {
       id: 7,
       title: "Dark Dungeon Kit",
-      price: 22.99,
+      price: 33.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/3d01c120-9b0f-450f-82a1-a3abe702bbe3.webp",
       rating: 4.4,
       sales: 298,
@@ -290,7 +290,7 @@ export const ASSETS_DATA = [
     {
       id: 11,
       title: "Underwater Reef Pack",
-      price: 33.99,
+      price: 23.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/9c179aa2-9d44-4532-9e9c-bc4a1748d978.webp",
       rating: 4.5,
       sales: 180,
@@ -319,7 +319,7 @@ export const ASSETS_DATA = [
     {
       id: 12,
       title: "Cityscape Building Kit",
-      price: 38.99,
+      price: 28.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/b0e4202f-95e3-4f51-b5ef-adfd9566b101.webp",
       rating: 4.7,
       sales: 415,
@@ -377,7 +377,7 @@ export const ASSETS_DATA = [
     {
       id: 14,
       title: "VR Sci-Fi Weapons",
-      price: 34.99,
+      price: 28.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/ae6bca0b-3a30-4939-894c-e1634d5c2181.webp",
       rating: 4.8,
       sales: 523,
@@ -406,7 +406,7 @@ export const ASSETS_DATA = [
     {
       id: 15,
       title: "Survival Crafting Tools",
-      price: 29.99,
+      price: 16.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/552c3aca-e7f9-4482-8d7a-b1d393505ebd.webp",
       rating: 4.6,
       sales: 415,
@@ -435,7 +435,7 @@ export const ASSETS_DATA = [
     {
       id: 16,
       title: "Magic Spells VFX Pack",
-      price: 39.99,
+      price: 30.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/9302af97-5b37-47e9-b2f6-aa1388869352.webp",
       rating: 4.9,
       sales: 645,
@@ -493,7 +493,7 @@ export const ASSETS_DATA = [
     {
       id: 18,
       title: "Ancient Temple Pack",
-      price: 35.99,
+      price: 28.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/1ac5eda6-fa2a-4869-a241-8c21669be20f.webp",
       rating: 4.7,
       sales: 362,
@@ -522,7 +522,7 @@ export const ASSETS_DATA = [
     {
       id: 19,
       title: "Desert Oasis Pack",
-      price: 30.99,
+      price: 16.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/eee01b79-b24e-4758-8969-bb79368262cd.webp",
       rating: 4.8,
       sales: 500,
@@ -551,7 +551,7 @@ export const ASSETS_DATA = [
     {
       id: 20,
       title: "Apocalyptic City Pack",
-      price: 31.99,
+      price: 21.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/ae669fd6-b427-43cb-8ba8-3bc7b9187bcf.webp",
       rating: 4.5,
       sales: 400,
@@ -609,7 +609,7 @@ export const ASSETS_DATA = [
     {
       id: 22,
       title: "Steampunk City Pack",
-      price: 29.99,
+      price: 20.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/8c428179-894f-465c-b864-310da579033d.webp",
       rating: 4.9,
       sales: 520,
@@ -725,7 +725,7 @@ export const ASSETS_DATA = [
     {
       id: 26,
       title: "Post-Apocalyptic Weapons Pack",
-      price: 28.99,
+      price: 19.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/58890e8c-85f5-431d-b404-925b2e76d117.webp",
       rating: 4.5,
       sales: 420,
@@ -754,7 +754,7 @@ export const ASSETS_DATA = [
     {
       id: 27,
       title: "Pixel Spacecraft Tileset",
-      price: 37.99,
+      price: 14.99,
       image: "https://assetstorev1-prd-cdn.unity3d.com/key-image/f9fee1ce-39ff-4816-a7ba-7af6550880b7.webp",
       rating: 4.8,
       sales: 480,
