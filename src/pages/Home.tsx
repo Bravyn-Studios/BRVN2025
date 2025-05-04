@@ -194,7 +194,7 @@ const Home: React.FC = () => {
                     {asset.category}
                   </p>
                   <p className="text-indigo-600 dark:text-indigo-400 font-bold text-base">
-                  ₹{Math.ceil(asset.price *85.30)}
+                   ₹{Math.ceil(asset.price *85.30)}
                   </p>
                 </div>
               </Link>
