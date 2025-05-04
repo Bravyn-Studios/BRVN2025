@@ -66,7 +66,7 @@ const Careers: React.FC = () => {
           preload="auto"
           className="absolute top-0 left-0 w-full h-full object-cover brightness-75"
         >
-          <source src="/brvn-main-vod.mp4" />
+          <source src="https://pub-dedd0b9728794612a431dfd19a354711.r2.dev/brvn-main-vod.mp4" />
           Your browser does not support the video tag.
         </video>
         <div className="relative z-20 text-center px-4">

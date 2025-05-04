@@ -50,7 +50,7 @@ const Home: React.FC = () => {
           className="absolute top-0 left-0 w-full h-full object-cover brightness-75"
         >
           <source
-            src="/brvn-main-vod.mp4"
+            src="https://pub-dedd0b9728794612a431dfd19a354711.r2.dev/brvn-main-vod.mp4"
             type="video/mp4"
           />
           Your browser does not support the video tag.
