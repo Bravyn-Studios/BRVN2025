@@ -46,6 +46,7 @@ const Home: React.FC = () => {
           autoPlay
           loop
           muted
+          preload="none"
           className="absolute top-0 left-0 w-full h-full object-cover brightness-75"
         >
           <source
